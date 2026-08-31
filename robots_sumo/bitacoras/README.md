@@ -7,9 +7,9 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## Capitán: Canela Zarranz
 ## Subcapitán: Roldán Alejandra
 ## Integrantes:
--Rojas Mejía Alex Leandro
--Robaldo Máximo
--Valles Luciano
+- Rojas Mejía Alex Leandro
+- Robaldo Máximo
+- Valles Luciano
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 31 de agosto 
