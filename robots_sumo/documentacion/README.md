@@ -1,2 +1,1 @@
-Carpeta designada para la documentación de robot -nombre-
-
+Carpeta designada para la documentación de robot Ropi
